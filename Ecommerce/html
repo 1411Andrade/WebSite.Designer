@@ -1,0 +1,30 @@
+0<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ok,Charles | Ecommerce</title>
+    <link rel="stylesheet" href="/MINI LOJA VIRTUAL/styles/global.css">
+</head>
+<body>
+    <div class="navbar">
+        <div class="header-inner-content">
+            <h1>CHARLE<span>STORE</span></h1>
+            <nav>
+                <ul>
+                    <li>HOME</li>
+                    <li>PRODUCTS</li>
+                    <li>SOBRE</li>
+                    <li>CONTATO</li>
+                    <li>CONTA</li>
+                </ul>
+            </nav>
+            <div>
+                <img src="Sacola.jpg" /> 
+                <img src="menu.png" />
+            </div>
+        </div>
+
+    </div>
+</body>
+</html>
