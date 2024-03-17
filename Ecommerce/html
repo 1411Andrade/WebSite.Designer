@@ -1,7 +1,8 @@
-0<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-<head>
+   <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ok,Charles | Ecommerce</title>
     <link rel="stylesheet" href="/MINI LOJA VIRTUAL/styles/global.css">
@@ -9,22 +10,38 @@
 <body>
     <div class="navbar">
         <div class="header-inner-content">
-            <h1>CHARLE<span>STORE</span></h1>
+            <h1 class="logo">SNAKE<span>STORE</span></h1>
             <nav>
                 <ul>
-                    <li>HOME</li>
-                    <li>PRODUCTS</li>
-                    <li>SOBRE</li>
-                    <li>CONTATO</li>
-                    <li>CONTA</li>
+                 <li>HOME</li>
+                 <li>PRODUCTS</li>
+                 <li>SOBRE</li>
+                 <li>CONTATO</li>
+                 <li>CONTA</li>
                 </ul>
             </nav>
-            <div>
+            <div class="nav-icon-container">
                 <img src="Sacola.jpg" /> 
-                <img src="menu.png" />
+                <img src="menu.png"  class="menu-button"/>
             </div>
         </div>
-
     </div>
+
+    <header>
+        <div class="header-inner-content">
+            <div class="header-bottom-side"></div>
+               <div class="header-bottom-side-left"></div>
+            <h2>Crie seu próprio estilo aqui no nosso site!</h2>
+            <p>Trabalhe enquanto eles dormem
+                Trabalhe enquanto eles dormem
+                Trabalhe enquanto eles dormem
+                Trabalhe enquanto eles dormem
+        
+            </p>
+            <button>NOW &#8594;</button>
+        </div>
+        <div class="header-bottom-side-right"></div>
+        <img src="camiseta.pai.jpg" alt="">
+    </header>
 </body>
 </html>
