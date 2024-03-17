@@ -1,2 +1,2 @@
-# WebSitemEcommerce
+# WebSiteEcommerce
 Example site idea💡 
